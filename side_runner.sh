@@ -9,6 +9,8 @@ fi
 
 source lib/lib.sh
 
+log "[password-hack] started! sleeping 2 seconds ..."
+
 sleep 2
 
 log "[password-hack] reloading config to populate password"
